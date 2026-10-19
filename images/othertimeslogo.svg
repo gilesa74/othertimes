@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1306 822" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-822.314218,-256.625)">
+        <g transform="matrix(0.986724,0,0,0.986724,89.672857,-21.13665)">
+            <g>
+                <g transform="matrix(1.013455,0,0,1.013455,296.797364,-83.449171)">
+                    <text x="461px" y="692.109px" style="font-family:'DINAlternate-Bold', 'DIN Alternate', sans-serif;font-weight:700;font-size:400px;fill:rgb(255,4,0);">O<tspan x="719.934px 942.149px 1223.544px 1468.221px " y="692.109px 692.109px 692.109px 692.109px ">THER</tspan></text>
+                </g>
+            </g>
+            <g transform="matrix(1.013455,0,0,1.013455,307.797364,229.550829)">
+                <text x="471px" y="692.109px" style="font-family:'DINAlternate-Bold', 'DIN Alternate', sans-serif;font-weight:700;font-size:400px;fill:rgb(255,4,0);">T<tspan x="756.741px 911.606px 1220.472px 1482.674px " y="692.109px 692.109px 692.109px 692.109px ">IMES</tspan></text>
+            </g>
+            <g transform="matrix(1.013455,0,0,1.013455,277.797364,569.550829)">
+                <text x="461px" y="536.323px" style="font-family:'DINAlternate-Bold', 'DIN Alternate', sans-serif;font-weight:700;font-size:104.167px;">S<tspan x="582.673px 708.11px 835.632px 968.801px 1096.323px 1217.996px 1331.989px 1453.662px 1567.655px 1687.497px " y="536.323px 536.323px 536.323px 536.323px 536.323px 536.323px 536.323px 536.323px 536.323px 536.323px ">OUNDSYSTEM</tspan></text>
+            </g>
+            <g transform="matrix(0.989378,0,0,0.882124,7.98786,11.36658)">
+                <path d="M2046.347,317C2059.401,317 2070,328.887 2070,343.529L2070,1062.471C2070,1077.113 2059.401,1089 2046.347,1089L775.653,1089C762.599,1089 752,1077.113 752,1062.471L752,343.529C752,328.887 762.599,317 775.653,317L2046.347,317Z" style="fill:none;stroke:rgb(255,4,0);stroke-width:20.27px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
