@@ -1,13 +1,13 @@
 
 body {
-       text-align: left;
+       text-align: center;
 	font-family: courier,sans-serif;
-       size: 10px;
+       size: 2em;
 }
 
 
 
-.container-left {
+.word {
 	padding-left: 20px;
 	width: 780px;
 	display: flex;
@@ -15,70 +15,23 @@ body {
 	
 }
 
-.container-right {
-	padding-top: 20px;
-	flex-direction: column;
-	width: 160px;
-	font-family: 'Zen Antique', sans-serif;
-	font-size: 0.8em;
-	display: flex;
-	
-}
-
-.blurb-companies{
-	display: flex;
-	flex-direction: row;
-	flex: 100%
-}
-
-.companies-group{
-	display: flex;
-
-	flex: 50%;
-	font-size: 10px;
-
-}
 
 @media (max-width: 560px){
 	.container-left, .container-right, .companies-group {
 		flex: 100%;
 	}
 }
-.grid-container {
-	
 
-}
 
 img {
-	max-width: 300px;
-	max-height: 300px;
-}
-.face {
-	paddingg-left: 20px;
-	margin: 24px 0 12px 0;
-	border-radius: 150px;
-		box-shadow: 5px 5px 5px #ccc;
+	max-width: 80%;
 }
 
-h1 {
-	font-family:'Ramaraja', serif;
-	font-size:6em;
-	font-weight: bold;
-	padding-left: 20px;
 
-}
-.title{
-	margin: 0 0 0 0;
-	padding-left: 20px;
-	padding-bottom: 0;
-}
 
-h2 {
-	font-size: 2em;
-	font-family: 'Ramaraja', serif;
-	margin: 0 0 0 0;
 
-}   
+
+
 
 .blurb {
 	margin: 0 0 0 0;
@@ -106,7 +59,7 @@ h2 {
 	padding-top: 116px;
 	font-family:  'Zen Antique', sans-serif;
 	text-align: right;
-	text-size: 10px;
+	size: 10px;
 }
 
 body, html{
@@ -115,7 +68,7 @@ body, html{
 
 a[href^="mailto:"]
 {
-	font-family:  'Zen Antique', sans-serif;
+	font-family:  courier, sans-serif;
 	color:	#595179;
 }
 
