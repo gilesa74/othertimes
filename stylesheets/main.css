@@ -3,16 +3,7 @@ body {
        text-align: center;
 	font-family: courier,sans-serif;
        size: 2em;
-}
-
-
-
-.word {
-	padding-left: 20px;
-	width: 780px;
-	display: flex;
-	flex-direction: column;
-	
+	   background-color: #FBCF00;
 }
 
 
@@ -22,53 +13,39 @@ body {
 	}
 }
 
-
 img {
+	padding-top: 6em;
 	max-width: 80%;
 }
 
 
-
-
-
-
-
-.blurb {
-	margin: 0 0 0 0;
-	text-align: left;
-	display: flex;
-	flex-direction: row;
-	flex: 100%;
+.g-words{
+	padding-top: 4em;
+	padding-bottom: 2em;
+	font-family:  Courier, sans-serif;
+	text-align: center;
+	size: 6em;	
 }
 
-.blurb-para {
-	margin: 12px 0 0 0;
-	font-size: 20px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 'light';
-
-}
-
-.para-big{
-	font-size: 36px;
-	padding-bottom: 24px;
-
-}
-
-.ga-links {
-	padding-top: 116px;
-	font-family:  'Zen Antique', sans-serif;
-	text-align: right;
-	size: 10px;
+.g-links {
+	padding-top: 4em;
+	font-family:  Courier, sans-serif;
+	text-align: center;
+	size: 2em;
 }
 
 body, html{
 	height: 100%;
 }
 
-a[href^="mailto:"]
+a[href]
 {
 	font-family:  courier, sans-serif;
-	color:	#595179;
+	color:	#000000;
+}
+
+a:hover{
+	color: #FF0400;
+	font-size: 2em;
 }
 
